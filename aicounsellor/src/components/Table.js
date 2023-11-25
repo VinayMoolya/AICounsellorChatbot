@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import AttachMoneyRoundedIcon from "@mui/icons-material/AttachMoneyRounded";
 import CardGiftcardRoundedIcon from "@mui/icons-material/CardGiftcardRounded";
 import SortRoundedIcon from "@mui/icons-material/SortRounded";
+import PlaceIcon from "@mui/icons-material/Place";
 import { Button, Popover, Typography, Modal, Box } from "@mui/material";
 
 const style = {
@@ -116,7 +117,7 @@ const Table = (props) => {
         </div>
         <div className="filter-criteria">
           <div>
-            <CardGiftcardRoundedIcon style={{ color: "gold" }} />
+            <PlaceIcon style={{ color: "gold" }} />
           </div>
           <div>
             <span className="attr">Location</span>
