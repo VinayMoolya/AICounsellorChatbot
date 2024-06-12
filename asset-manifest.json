@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AICounsellorChatbot/static/css/main.aada21e7.css",
+    "main.js": "/AICounsellorChatbot/static/js/main.ea3ec26b.js",
+    "index.html": "/AICounsellorChatbot/index.html",
+    "main.aada21e7.css.map": "/AICounsellorChatbot/static/css/main.aada21e7.css.map",
+    "main.ea3ec26b.js.map": "/AICounsellorChatbot/static/js/main.ea3ec26b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aada21e7.css",
+    "static/js/main.ea3ec26b.js"
+  ]
+}
