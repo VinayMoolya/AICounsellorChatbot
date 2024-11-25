@@ -1,8 +1,8 @@
-# AI Counsellor Chatbot 
+# AI Counsellor Chatbot  
 
-Developed an AI Counsellor Bot which helps students in decision making for College Selection based on various criteria.<br>
+Developed an AI-powered Counsellor Bot to assist students in making informed decisions about college selection based on multiple criteria.  
 
-- It has an integrated Chatbot advising the student regarding the process , functions and other queries such as Best College w.r.t [Rating , ROI , Fees , & So on ].
-- A custom formula was created for ranking the colleges based on the latest NIRF and QS ranking.
-- The webpage supports B.Tech , M.Tech and MBA colleges in india. Base information scraped from collegedunia.com
-- Technologies Used : React.js , Python , WebScraping
+- **Integrated Chatbot**: Provides personalized guidance on college selection, admission processes, and answers queries related to factors like college ratings, ROI, fees, and more.  
+- **Custom Ranking Algorithm**: Designed a formula to rank colleges using the latest NIRF and QS rankings for enhanced decision-making.  
+- **Comprehensive Coverage**: The platform supports B.Tech, M.Tech, and MBA colleges in India, with base data sourced from Collegedunia.com via web scraping.  
+- **Technologies Used**: React.js, Python, and Web Scraping.  
